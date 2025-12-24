@@ -29,6 +29,7 @@
 ---
 
 ## 2. Документация
+<img width="662" height="341" alt="A-0-Context drawio" src="https://github.com/user-attachments/assets/1cfc8ab2-a9bb-4fd4-9c6d-8ee6acdc7384" />
 
 [Перейти к документации](./docs/)
 
