@@ -29,6 +29,8 @@
 ---
 
 ## 2. Документация
+<img width="716" height="701" alt="mind-map" src="https://github.com/user-attachments/assets/5a456db3-fef4-4aa5-a239-f0de9b17068a" />
+
 
 <img width="662" height="341" alt="A-0-Context drawio" src="https://github.com/user-attachments/assets/1cfc8ab2-a9bb-4fd4-9c6d-8ee6acdc7384" />
 
